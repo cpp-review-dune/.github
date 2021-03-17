@@ -1,0 +1,8 @@
+{
+    "name": "C++ Review Dune Organization Workflow",
+    "description": "C++ Review Dune CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "TeX"
+    ]
+}
