@@ -50,6 +50,12 @@ jobs:
           username: ${{ secrets.GH_USERNAME }}
           password: ${{ secrets.CR_PAT }}
 
+      - name: Find dockerfile
+        shell: bash
+        run: |
+          ls -R
+          pwd
+
       - name: Build and push
         uses: docker/build-push-action@v2
         with:
