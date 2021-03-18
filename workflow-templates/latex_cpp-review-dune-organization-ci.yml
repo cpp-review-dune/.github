@@ -3,8 +3,8 @@ name: C++ Review Dune Organization CI
 on:
   push:
     branches: [$default-branch]
-  paths:
-    - src/TeX/**
+    paths:
+      - src/TeX/**
   pull_request:
     branches: [$default-branch]
 
