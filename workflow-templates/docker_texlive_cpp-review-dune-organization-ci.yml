@@ -46,6 +46,6 @@ jobs:
           file: ./src/Docker/TeXLive.Dockerfile
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/cpp-review-dune/texlive:latest
+          tags: ghcr.io/${GITHUB_REPOSITORY}/texlive:latest
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
