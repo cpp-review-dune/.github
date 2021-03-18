@@ -3,8 +3,6 @@ name: C++ Review Dune Organization CI
 on:
   push:
     branches: [$default-branch]
-    paths:
-      - src/Docker/TeXLive.Dockerfile
   pull_request:
     branches: [$default-branch]
 
