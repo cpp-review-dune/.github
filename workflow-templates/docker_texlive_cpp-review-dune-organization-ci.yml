@@ -54,7 +54,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           context: .
-          file: ./src/Docker/TeXLive.Dockerfile
+          file: .introductory-review/src/Docker/TeXLive.Dockerfile
           platforms: linux/amd64
           push: true
           tags: ghcr.io/cpp-review-dune/introductory-review/texlive:latest
