@@ -30,7 +30,7 @@ jobs:
           options: -v ${{github.workspace}}:/work
           shell: bash
           run: |
-            cd /work/src/TeX && arara -L ptbr [ma]*.tex
+            cd /work/src/TeX && arara -L ptbr [Ma]*.tex
 
       - name: Check pdf files
         run: |
