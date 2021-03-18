@@ -1,4 +1,4 @@
-name: C++ Review Dune Organization CI
+name: LaTeX container
 
 on:
   push:
