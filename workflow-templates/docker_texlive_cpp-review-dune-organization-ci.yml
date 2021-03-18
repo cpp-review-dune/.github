@@ -16,8 +16,8 @@ jobs:
       - name: Maximize build space
         uses: easimon/maximize-build-space@master
         with:
-          root-reserve-mb: 512
-          swap-size-mb: 1024
+          # root-reserve-mb: 512
+          # swap-size-mb: 1024
           remove-dotnet: "true"
           remove-android: "true"
           remove-haskell: "true"
@@ -49,12 +49,6 @@ jobs:
           registry: ghcr.io
           username: ${{ secrets.GH_USERNAME }}
           password: ${{ secrets.CR_PAT }}
-
-      # - name: Find dockerfile
-      #   shell: bash
-      #   run: |
-      #     ls -R
-      #     pwd
 
       - name: Build and push
         uses: docker/build-push-action@v2
