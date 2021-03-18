@@ -5,8 +5,6 @@ on:
     branches: [$default-branch]
   pull_request:
     branches: [$default-branch]
-  paths:
-    - src/Docker/TeXLive.Dockerfile
 
 jobs:
   push_image:
