@@ -32,7 +32,7 @@ jobs:
           options: -v ${{github.workspace}}:/work
           shell: bash
           run: |
-            cd /work/src/TeX && arara -L de [Ma]*.tex
+            cd /work/src/TeX && for i in *.tex; do lacheck "$i"; done && arara -L de [Ma]*.tex
 
       - name: Check pdf files
         run: |
