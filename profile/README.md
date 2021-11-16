@@ -1,12 +1,5 @@
-## Hi there 👋
+## C++ Review DUNE
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+- 🔭 Interesados en C/[C++](https://isocpp.org), [CMake](https://cmake.org), [Python](https://python.org), [VTK/Paraview](https://www.paraview.org/Wiki/VTK), [Gmsh](https://gmsh.info), modelos de medios porosos, reservorios así como los métodos de elementos/volúmenes finitos.
+- 🐧 Usamos [GNU/Linux](https://www.gnu.org/home.html) y somos [Arch Linux comantenedores de los módulos de DUNE](https://aur.archlinux.org/packages/dune-core).
+- 🔖 Echa un vistazo al [blog estático](https://cpp-review-dune.github.io/introductory-review).
