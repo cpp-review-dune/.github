@@ -6,7 +6,7 @@
 
 ## News
 
-Find us in the talk and the poster session
+Find us in the talk and the poster session at Cuzco.
 
 - [Richards model for simulations of water infiltration in agricultural soil using DuMux (download here)](https://cpp-review-dune.github.io/flow-test-dumux/slides.pdf)
 ![Screenshot_org pwmt zathura_20221004075036](https://user-images.githubusercontent.com/21283014/193824580-f39003fc-5687-48fd-9ba3-17dda414dc74.png)
