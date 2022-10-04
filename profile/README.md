@@ -6,6 +6,11 @@
 
 
 - [Richards model for simulations of water infiltration in agricultural soil using DuMux](https://cpp-review-dune.github.io/flow-test-dumux/slides.pdf)
+![Screenshot_org pwmt zathura_20221004075036](https://user-images.githubusercontent.com/21283014/193824580-f39003fc-5687-48fd-9ba3-17dda414dc74.png)
+
 - [Virtualization of scientific software based on Arch Linux in GitPod](https://cpp-review-dune.github.io/flow-test-dumux/poster.pdf)
+![Screenshot_select-area_20221004075406](https://user-images.githubusercontent.com/21283014/193824597-b9a90d4a-1176-4187-b971-50d9b79560c3.png)
 
 ![AFICHE-PERUVIAN-CONFERENCE-SCIENTIFIC-COMPUTING](https://user-images.githubusercontent.com/21283014/193478851-65729c16-0464-4fce-91e5-4d9ae0daa781.jpg)
+
+
