@@ -4,9 +4,9 @@
 - 🐧 Usamos [GNU/Linux](https://www.gnu.org/home.html) y somos [comantenedores de los módulos de DUNE para Arch Linux](https://aur.archlinux.org/packages/dune-core).
 - 🔖 Echa un vistazo al [blog estático](https://cpp-review-dune.github.io).
 
-## News
+## News (2022/10/04)
 
-Find us in the talk and the poster session at Cuzco.
+Find us 😄 in the talk and the poster session at Cuzco.
 
 - [Richards model for simulations of water infiltration in agricultural soil using DuMux (click here for download)](https://cpp-review-dune.github.io/flow-test-dumux/slides.pdf)
 ![Screenshot_org pwmt zathura_20221004075036](https://user-images.githubusercontent.com/21283014/193824580-f39003fc-5687-48fd-9ba3-17dda414dc74.png)
